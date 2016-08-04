@@ -1,0 +1,14 @@
+layout_spectrum: 0.902596213389188
+typography_spectrum: 0.8188734548166394
+color:
+  brandStrength: 0.3466657232493162
+  lightness: 0.5849425923079252
+  saturation: 0.3908433448523283
+  rhythmicContrast: 0.9812994699459523
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Sqibbles
